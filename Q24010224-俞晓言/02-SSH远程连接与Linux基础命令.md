@@ -165,6 +165,10 @@ sudo apt install <deb name>
 
 `<deb name>` 是软件包名称的占位符，不能连同尖括号原样输入。在 Bash 中，`<` 和 `>` 还具有重定向含义，原样输入会产生语法错误。
 
+## 实验截图
+
+![SSH 服务与文件操作结果](screenshots/02-ssh-commands.jpg)
+
 ## 实验结论
 
 本次实验成功建立了从 macOS 主机到 UTM Ubuntu 虚拟机的 SSH 连接，并在远程 Shell 中完成了目录创建、文件创建、输出重定向和文件读取。
