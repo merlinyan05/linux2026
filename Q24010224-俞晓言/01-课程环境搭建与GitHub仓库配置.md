@@ -96,6 +96,12 @@ merlin@merlin-ubuntu:~$
 
 该配置可以将自己的作业推送到个人 Fork，并在课程期间从教师仓库同步后续更新。
 
+## 实验截图
+
+![Ubuntu 环境](screenshots/01-ubuntu.jpg)
+
+![GitHub 课程仓库](screenshots/01-github.jpg)
+
 ## 智能体使用体会
 
 本次任务中，我使用智能体协助核对课程要求，并完成虚拟机方案选择、Ubuntu 安装、网络诊断、OpenSSH 配置、SSH 连接测试以及 GitHub Fork 和仓库配置。通过实际操作，我了解了 NAT 网络与桥接网络的区别，掌握了 SSH 服务状态检查、Linux 网络地址查看以及远程登录的基本方法，也进一步熟悉了 GitHub Fork、`origin` 与 `upstream` 的作用。
