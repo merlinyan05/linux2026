@@ -238,6 +238,12 @@ macOS 的以下设置中，`Google Chrome.app` 的开关处于关闭状态：
 
 本次只需修改一个受保护文件，因此使用 `sudo vim ...` 仅为这一条命令授权。这符合最小权限原则，同时完成与课件相同的实验目标。
 
+## 实验截图
+
+![Nginx 服务与 HTTP 响应](screenshots/03-nginx.jpg)
+
+![Mac 浏览器访问静态网页](screenshots/03-browser.jpg)
+
 ## 实验结论
 
 本次实验完成了 Nginx 的安装、服务状态检查、Ubuntu 本机访问、macOS 远程访问和自定义静态首页部署。最终从 Ubuntu、Mac 终端和 Chrome 三个角度均验证了 `hello, njupt` 页面。
